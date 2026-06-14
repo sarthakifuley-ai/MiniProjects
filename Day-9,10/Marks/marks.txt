@@ -1,0 +1,10 @@
+Sarthaki,98
+Stavya,80
+Siddhi,56
+Soham,37
+Atharva,94
+Arush,69
+Aarsh,78
+Snehal,89
+Anupam,88
+Shubh,65

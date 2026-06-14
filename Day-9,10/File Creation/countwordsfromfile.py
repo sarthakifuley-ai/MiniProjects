@@ -1,0 +1,6 @@
+file = open("student.txt","r")
+content = file.read()
+split_content = content.split()
+word_count = len(split_content)
+print(word_count)
+file.close()

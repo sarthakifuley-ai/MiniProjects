@@ -1,0 +1,5 @@
+file = open("student.txt","r")
+lines = file.readlines()
+line_count = len(lines)
+print(line_count)
+file.close()

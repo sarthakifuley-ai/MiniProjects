@@ -1,0 +1,5 @@
+file = open("student.txt","r")
+content = file.read()
+length = len(content)
+print(length)
+file.close()
